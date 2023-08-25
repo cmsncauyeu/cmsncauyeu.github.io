@@ -46,3 +46,7 @@ img {
 #redirectButton:hover{
     transform: scale(1.05);
 }
+.resized-image {
+    width: 300px; /* Set the desired width */
+    height: auto; /* Automatically adjust the height to maintain aspect ratio */
+  }
